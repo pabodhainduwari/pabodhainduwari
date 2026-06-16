@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Pabodha%20Induwari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20AI%20Enthusiast%20%7C%20Data%20Analyst&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Pabodha%20Marasinghe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20AI%20Enthusiast%20%7C%20Data%20Analyst&descAlignY=58&descSize=18" />
 
 <img src="https://komarev.com/ghpvc/?username=pabodhainduwari&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
