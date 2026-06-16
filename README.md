@@ -1,119 +1,102 @@
-<h1 align="center">Hi 👋, I'm Pabodha Marasinghe</h1>
+<div align="center">
 
-<h3 align="center">
-Data Science Undergraduate | AI Enthusiast | Data Analyst
-</h3>
+# Hi 👋 I'm Pabodha Marasinghe
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Power+BI+Developer;Aspiring+AI+Engineer;Turning+Data+into+Insights" />
-</p>
+### Data Science Undergraduate | AI Enthusiast | Data Analyst
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Power+BI+Developer;Aspiring+AI+Engineer;Building+AI+Powered+Solutions" />
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 IT Undergraduate specializing in Data Science at SLIIT
+🎓 BSc (Hons) in Information Technology – Specializing in Data Science at SLIIT
 
-📊 Passionate about Data Analytics, Machine Learning and Artificial Intelligence
+📊 Passionate about Data Analytics, Machine Learning, Artificial Intelligence and Business Intelligence
 
-🌱 Currently Learning:
+🌱 Currently Learning
+
 - Machine Learning
 - Deep Learning
-- Data Engineering
 - Generative AI
+- Data Engineering
 - RAG Systems
 
-💡 Interested in building AI-powered applications and data-driven solutions
+💡 Interested in solving real-world problems using Data and AI
 
 📍 Sri Lanka
 
-📫 Email: pabodhainduwari@gmail.com
+📧 Email: pabodhainduwari@gmail.com
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Career Intelligence Agent
-AI-powered ATS Resume Analyzer built with Python and Streamlit.
-
-✅ Resume Analysis  
-✅ Skill Gap Detection  
-✅ ATS Score Calculation  
-✅ Career Recommendations  
-
----
-
 ### 🎓 University Lecture Assistant (RAG)
 
-Retrieval-Augmented Generation system built using:
+Retrieval-Augmented Generation System
 
-- LangChain
-- ChromaDB
-- Gemini
-- Streamlit
+- PDF Question Answering
+- ChromaDB Vector Store
+- LangChain Integration
+- Gemini LLM
 
-Features:
-
-✅ Upload Lecture PDFs  
-✅ Ask Questions  
-✅ Context-aware Answers  
-✅ Source Citations  
+**Tech Stack:** Python, LangChain, ChromaDB, Streamlit
 
 ---
 
 ### 🏥 Ayur Naturals Clinic Management System
 
-Full-stack MERN application for:
+MERN Stack Application
 
-- Appointment Management
-- Therapist Booking
+- Appointment Booking
 - Product Management
+- Patient Management
 - Online Ordering
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-### Programming Languages
+<p align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,c,cpp,php" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,react,nodejs,express,mongodb,mysql,html,css,git,github,docker,vscode"/>
 
-### Data Science & Analytics
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
-</p>
-
-- Power BI
-- DAX
-- Excel Analytics
-- Statistical Analysis
-- Machine Learning
-- Data Visualization
-
-### Web Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 Data Science Skills
+
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ Statistical Analysis
+
+✔ Machine Learning
+
+✔ Predictive Analytics
+
+✔ Power BI Dashboard Development
+
+✔ KPI Reporting
+
+✔ Data Storytelling
+
+✔ ETL & Data Warehousing
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabodhainduwari&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pabodhainduwari&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabodhainduwari&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabodhainduwari&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -129,45 +112,33 @@ Full-stack MERN application for:
 
 ---
 
-## 📊 Data Science Skills
+## 🏆 GitHub Trophies
 
-✔ Data Cleaning
+<p align="center">
 
-✔ Exploratory Data Analysis (EDA)
+<img src="https://github-profile-trophy.vercel.app/?username=pabodhainduwari&theme=tokyonight&row=1&column=7"/>
 
-✔ Statistical Analysis
-
-✔ Regression Modelling
-
-✔ Hypothesis Testing
-
-✔ Predictive Analytics
-
-✔ Dashboard Development
-
-✔ KPI Reporting
-
-✔ ETL & Data Warehousing Concepts
+</p>
 
 ---
 
-## 🏆 Certifications
+## 📜 Certifications
 
-📜 MongoDB Data Modeling Path
+🏅 MongoDB Data Modeling Path
 
-📜 Python Programming – University of Moratuwa
+🏅 AI & Machine Learning Stage 1 – SLIIT
 
-📜 AI & Machine Learning Stage 1 – SLIIT
+🏅 Python Programming – University of Moratuwa
 
-📜 Python for Beginners
+🏅 Python for Beginners
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/pabodha-marasinghe-766829276/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -175,12 +146,16 @@ Full-stack MERN application for:
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
+<a href="https://github.com/pabodhainduwari">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ "Transforming Data into Insights, and Insights into Impact."
+### ⭐ Transforming Data into Insights, and Insights into Impact
 
-</p>
+</div>
