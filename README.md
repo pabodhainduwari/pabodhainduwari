@@ -129,7 +129,7 @@ Statistical analysis project on learning satisfaction and motivation.
 `R` `Statistics` `Regression` `Data Analysis`
 
 </td>
-
+<td width="50%">
 ### 📚 StudyBloom – Student Productivity & Wellness Mobile App
 
 Student-focused productivity and wellness application designed to improve study habits and personal wellbeing.
@@ -144,6 +144,7 @@ Student-focused productivity and wellness application designed to improve study 
 
 **Tech Stack**  
 `Kotlin` `Android` `XML` `Material Design`
+</td>
 </tr>
 </table>
 
