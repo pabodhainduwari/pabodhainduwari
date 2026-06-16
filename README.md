@@ -129,6 +129,21 @@ Statistical analysis project on learning satisfaction and motivation.
 `R` `Statistics` `Regression` `Data Analysis`
 
 </td>
+
+### 📚 StudyBloom – Student Productivity & Wellness Mobile App
+
+Student-focused productivity and wellness application designed to improve study habits and personal wellbeing.
+
+**Features**
+- Pomodoro study sessions
+- Task management
+- Wellness reminders
+- Mood tracking
+- Progress monitoring
+- Motivational content
+
+**Tech Stack**  
+`Kotlin` `Android` `XML` `Material Design`
 </tr>
 </table>
 
@@ -182,16 +197,6 @@ Statistical analysis project on learning satisfaction and motivation.
 
 ---
 
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pabodhainduwari/pabodhainduwari/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
 
 ## 📜 Certifications
 
