@@ -1,10 +1,18 @@
 <div align="center">
 
-# Hi 👋 I'm Pabodha Marasinghe
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Pabodha%20Induwari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20AI%20Enthusiast%20%7C%20Data%20Analyst&descAlignY=58&descSize=18" />
 
-### Data Science Undergraduate | AI Enthusiast | Data Analyst
+<img src="https://komarev.com/ghpvc/?username=pabodhainduwari&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Power+BI+Developer;Aspiring+AI+Engineer;Building+AI+Powered+Solutions" />
+</div>
+
+---
+
+<div align="center">
+
+### 👋 Hi, I'm Pabodha Marasinghe
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Power+BI+Dashboard+Developer;RAG+System+Builder;Turning+Data+into+Insights" />
 
 </div>
 
@@ -12,150 +20,213 @@
 
 ## 👩‍💻 About Me
 
-🎓 BSc (Hons) in Information Technology – Specializing in Data Science at SLIIT
+```python
+pabodha = {
+    "role": "Data Science Undergraduate",
+    "university": "Sri Lanka Institute of Information Technology (SLIIT)",
+    "interests": ["Data Science", "Machine Learning", "AI", "Business Intelligence"],
+    "currently_learning": ["Generative AI", "RAG Systems", "Data Engineering"],
+    "goal": "To build data-driven and AI-powered solutions",
+    "location": "Sri Lanka"
+}
+```
 
-📊 Passionate about Data Analytics, Machine Learning, Artificial Intelligence and Business Intelligence
-
-🌱 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Data Engineering
-- RAG Systems
-
-💡 Interested in solving real-world problems using Data and AI
-
-📍 Sri Lanka
-
-📧 Email: pabodhainduwari@gmail.com
+- 🎓 BSc (Hons) in Information Technology – Specializing in Data Science  
+- 📊 Passionate about Data Analytics, Machine Learning, AI and BI  
+- 🤖 Interested in building AI-powered applications and RAG systems  
+- 📫 Reach me: **pabodhainnduwari@gmail.com**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 University Lecture Assistant (RAG)
+<table>
+<tr>
 
-Retrieval-Augmented Generation System
+<td width="50%">
 
-- PDF Question Answering
-- ChromaDB Vector Store
-- LangChain Integration
-- Gemini LLM
+### 🎓 University Lecture Assistant
 
-**Tech Stack:** Python, LangChain, ChromaDB, Streamlit
+RAG-based PDF question answering system for students.
 
----
+**Features**
+- Upload lecture PDFs
+- Ask natural language questions
+- Source-based answers
+- MCQs, flashcards, summaries
+
+**Tech Stack**  
+`Python` `Streamlit` `LangChain` `ChromaDB` `Gemini`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Sales Analysis Dashboard
+
+Retail sales analytics and BI dashboard project.
+
+**Features**
+- Star schema data warehouse
+- ETL pipelines
+- KPI reporting
+- Sales and customer insights
+
+**Tech Stack**  
+`Power BI` `SQL` `DAX` `Excel`
+
+</td>
+<td width="50%">
+
+### 🏫 Smart Campus Operations Hub
+
+Full-stack campus operations management system.
+
+**Features**
+- Asset booking
+- Maintenance requests
+- Role-based access control
+- Approval workflows
+
+**Tech Stack**  
+`Spring Boot` `React` `OAuth 2.0` `Docker` `Progress SQL`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🏥 Ayur Naturals Clinic Management System
 
-MERN Stack Application
+Healthcare and wellness management web application.
 
-- Appointment Booking
-- Product Management
-- Patient Management
-- Online Ordering
+**Features**
+- Doctor appointments
+- Therapist bookings
+- Ayurvedic product ordering
+- Payment options
+
+**Tech Stack**  
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+</td>
+<td width="50%">
+
+### 📈 Student Motivation Data Analysis
+
+Statistical analysis project on learning satisfaction and motivation.
+
+**Features**
+- Survey data analysis
+- Pearson correlation
+- ANOVA testing
+- Multiple linear regression
+
+**Tech Stack**  
+`R` `Statistics` `Regression` `Data Analysis`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,react,nodejs,express,mongodb,mysql,html,css,git,github,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,c,cpp,php,react,nodejs,express,mongodb,mysql,html,css,git,github,docker,vscode" />
 
-</p>
+</div>
 
 ---
 
-## 📊 Data Science Skills
+## 📊 Data Science & BI Skills
 
-✔ Data Cleaning
+<p align="center">
 
-✔ Exploratory Data Analysis (EDA)
+<img src="https://img.shields.io/badge/Data%20Cleaning-36BCF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EDA-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Statistics-00C7B7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG%20Systems-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=for-the-badge" />
 
-✔ Statistical Analysis
-
-✔ Machine Learning
-
-✔ Predictive Analytics
-
-✔ Power BI Dashboard Development
-
-✔ KPI Reporting
-
-✔ Data Storytelling
-
-✔ ETL & Data Warehousing
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pabodhainduwari&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pabodhainduwari&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabodhainduwari&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabodhainduwari&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pabodhainduwari&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pabodhainduwari&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
+## 🐍 GitHub Contribution Snake
 
-<img src="https://github-profile-trophy.vercel.app/?username=pabodhainduwari&theme=tokyonight&row=1&column=7"/>
+<div align="center">
 
-</p>
+<img src="https://raw.githubusercontent.com/pabodhainduwari/pabodhainduwari/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
 ## 📜 Certifications
 
-🏅 MongoDB Data Modeling Path
-
-🏅 AI & Machine Learning Stage 1 – SLIIT
-
-🏅 Python Programming – University of Moratuwa
-
-🏅 Python for Beginners
+- MongoDB Data Modeling Path  
+- AI / Machine Learning – Stage 1 | SLIIT  
+- AI / Machine Learning – Stage 2 | SLIIT  
+- Python Programming – University of Moratuwa  
+- Python for Beginners  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/pabodha-marasinghe-766829276/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:pabodhainduwari@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:pabodhainnduwari@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/pabodhainduwari">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
 ### ⭐ Transforming Data into Insights, and Insights into Impact
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=120&section=footer" />
 
 </div>
