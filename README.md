@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pabodha Induwari</h1>
+<h1 align="center">Hi 👋, I'm Pabodha Marasinghe</h1>
 
 <h3 align="center">
 Data Science Undergraduate | AI Enthusiast | Data Analyst
