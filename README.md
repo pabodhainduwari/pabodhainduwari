@@ -42,7 +42,6 @@ pabodha = {
 
 <table>
 <tr>
-
 <td width="50%">
 
 ### 🎓 University Lecture Assistant
@@ -59,9 +58,7 @@ RAG-based PDF question answering system for students.
 `Python` `Streamlit` `LangChain` `ChromaDB` `Gemini`
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 📊 Sales Analysis Dashboard
@@ -78,6 +75,9 @@ Retail sales analytics and BI dashboard project.
 `Power BI` `SQL` `DAX` `Excel`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🏫 Smart Campus Operations Hub
@@ -94,9 +94,7 @@ Full-stack campus operations management system.
 `Spring Boot` `React` `OAuth 2.0` `Docker` `Progress SQL`
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 🏥 Ayur Naturals Clinic Management System
@@ -113,6 +111,9 @@ Healthcare and wellness management web application.
 `MongoDB` `Express.js` `React.js` `Node.js`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 📈 Student Motivation Data Analysis
@@ -129,7 +130,9 @@ Statistical analysis project on learning satisfaction and motivation.
 `R` `Statistics` `Regression` `Data Analysis`
 
 </td>
+
 <td width="50%">
+
 ### 📚 StudyBloom – Student Productivity & Wellness Mobile App
 
 Student-focused productivity and wellness application designed to improve study habits and personal wellbeing.
@@ -144,6 +147,7 @@ Student-focused productivity and wellness application designed to improve study 
 
 **Tech Stack**  
 `Kotlin` `Android` `XML` `Material Design`
+
 </td>
 </tr>
 </table>
